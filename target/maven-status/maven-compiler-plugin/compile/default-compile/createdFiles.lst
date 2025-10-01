@@ -1,0 +1,10 @@
+edu/scu/xzw/User$Criteria.class
+edu/scu/xzw/UserDetailController.class
+edu/scu/xzw/UserSearchController.class
+edu/scu/xzw/UserProcessor.class
+edu/scu/xzw/User$UserBuilder.class
+edu/scu/xzw/Review$Criteria.class
+edu/scu/xzw/Review.class
+edu/scu/xzw/Review$ReviewBuilder.class
+edu/scu/xzw/User.class
+edu/scu/xzw/ReviewProcessor.class
